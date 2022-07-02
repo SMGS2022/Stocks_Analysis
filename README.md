@@ -11,4 +11,7 @@ The advantages of refactoring code makes for user friendly and organized informa
 ## The Advantages and Disadvantages of the Original and Refactored VBA Script
 In the original VBA script, the disadvantage as shown below, was a result of slower efficiency. 
 ![VBA_Challenge_Original](VBA_Challenge_Original.png)
-In the refactored VBA script, the advatage as shown below, was a result of significant increase in efficiency.
+
+
+However, in the refactored VBA script, the advatage as shown below, was a result of significant increase in efficiency.
+![VBA_Challenge_Refactored](VBA_Challenge_Refactored.png)
